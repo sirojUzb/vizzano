@@ -95,7 +95,7 @@ const Login: FC = () => {
           <Wrapper.Title>И снова здравствуйте!</Wrapper.Title>
           <Wrapper.Description>
             Каждый день мы стараемся шить с лучшими для вас &#128522;. Vizzano с
-            вами более 10 лет. &#128526; &#128579;
+            вами более 15 лет. &#128526; &#128579;
           </Wrapper.Description>
           <Wrapper.Input
             value={userInput.fullName}
